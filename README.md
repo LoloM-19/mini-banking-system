@@ -13,7 +13,7 @@ Data is saved to a JSON file, so it survives between runs.
 Requires Python 3.9 or newer. No third-party packages are needed.
 
 ```bash
-git clone https://github.com/<your-username>/mini-banking-system.git
+git clone https://github.com/LoloM-19/mini-banking-system.git
 cd mini-banking-system
 python main.py
 ```
